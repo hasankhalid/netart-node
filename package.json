@@ -1,0 +1,16 @@
+{
+  "name": "netart-node",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "class exercise for node js and socket",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "hasan khalid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
